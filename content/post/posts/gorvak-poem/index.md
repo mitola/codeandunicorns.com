@@ -1,6 +1,13 @@
 ---
 title: 'Gorvak: Sentient species of trees in a far away land'
 date: 2018-12-10T22:18:51+00:00
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
 authors:
 - admin
 
@@ -8,7 +15,6 @@ categories:
   - ALL
   - Poem
 ---
-![treepathy](posts/treepathy.jpg "")
 Poems are an alternative way of how to put imagination into writing. And in the following one I have imagined a world of sentient tree like beings in a nitrogenic atmosphere with their conscious great but working in a different way and speed to what we may be used to. It gives I hope also a good representation of possible challenges when encountering foreign species sooner or later into the future to be.
 
 Breeze is lightly touching me through wind unknown,  

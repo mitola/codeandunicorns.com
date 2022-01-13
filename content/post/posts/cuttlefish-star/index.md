@@ -1,10 +1,16 @@
 ---
 title: 'Cuttlefish star'
 date: 2018-09-27T13:45:25+00:00
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
 authors:
 - admin
 ---
-![utopicaldistopia](posts/scifiasteroids.jpeg "") 
 Cuddle cuddle that tiny cuttlefish.
 
 Through telescopes immersive,  

@@ -1,10 +1,16 @@
 ---
 title: Semi detached love story
 date: 2019-04-20T14:02:12+00:00
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
 authors:
 - admin
 ---
-![flyiohousio](posts/flyiohousio.jpg "")
 
 I’m a house on the Oxfordshire road up the left,  
 You are the one,  
