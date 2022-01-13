@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-<form name="contact" method="POST" data-netlify="true">
+<form name="subscribe" method="POST" data-netlify="true">
   <p>
     <label>Your Email: <input type="email" name="email" class="form-control w-100"/></label>
   </p>
