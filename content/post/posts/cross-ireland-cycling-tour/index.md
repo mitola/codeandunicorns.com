@@ -4,11 +4,15 @@ date: 2019-11-21T13:07:52+00:00
 authors:
 - admin
 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 categories:
   - ALL
   - Travel
 ---
-![Black Hole Quasar](posts/Ireland_cycling_tour.png "")
 I have decided to do something different, something out of the ordinary and a wee bit on the extreme side. The winter is coming, and tourists are leaving the European shores for warmer climate, like the migratory birds. Going into their warm houses, with heating of some kind, and looking dreamily through the window into rain covered trees.
 
 But why should I just look from the warm comforts? Isn't one of points of life to challenge yourself your psychological and physical self ?
