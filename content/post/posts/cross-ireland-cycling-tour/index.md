@@ -14,7 +14,7 @@ categories:
   - ALL
   - Travel
 ---
-{{< gist spf13 7896402 >}}
+
 
 I have decided to do something different, something out of the ordinary and a wee bit on the extreme side. The winter is coming, and tourists are leaving the European shores for warmer climate, like the migratory birds. Going into their warm houses, with heating of some kind, and looking dreamily through the window into rain covered trees.
 
