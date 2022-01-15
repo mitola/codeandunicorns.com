@@ -30,12 +30,20 @@ url_video: ""
 # slides: example
 ---
 
+A recent project I was working on is an online e-commerce shop providing
+different kind of merchandise. From T-shirts and hoodies to different electronics.
+They range from different audio equipment to USB accesories and much more. 
+The part I am the most fond of is a design that is fairly clear and easy to use by customers. 
 
+{{< cta cta_text="Check it out!" cta_link="https://unworldlyunicorn.com/" cta_new_tab="false" >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+### Overview of several sections:
 
+Lights section: 
 ![shop](shop.png "")
 
+Overview from homepage: 
 ![unicorn](unicorn.png "")
 
+Highlight section: 
 ![unworldy](unworldy.png "")

@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: E-commerce
     tag: commerce
-  - name: Other
-    tag: Demo
+  - name: Creative writing
+    tag: creative writing
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
