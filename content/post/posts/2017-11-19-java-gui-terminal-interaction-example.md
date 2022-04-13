@@ -5,9 +5,8 @@ author:
 - admin 
 
 categories:
-  - ALL
   - How to
-  - The Code
+  - programming
 ---
 ![tab2_commands-min](posts/tab2_commands-min.png "")
 The following example will go over following Github repo created specifically for this.

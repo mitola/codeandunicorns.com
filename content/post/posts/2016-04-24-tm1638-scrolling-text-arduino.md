@@ -5,9 +5,9 @@ author: Matjaz Trcek
 
 
 categories:
-  - ALL
-  - Electronics
+  - electronics
   - How to
+  - programming
 tags:
   - arduino
   - programming

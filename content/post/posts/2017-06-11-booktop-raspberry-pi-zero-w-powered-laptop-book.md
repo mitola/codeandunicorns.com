@@ -5,7 +5,7 @@ author:
 - admin
 
 categories:
-  - ALL
+  - programming
   - Electronics
   - How to
 ---

@@ -5,10 +5,8 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - Poem
-tags:
   - poem
+  - writing
 ---
 ![love-is-all](posts/love-is-all.jpg "")
 ### For Chezi poem: Love is all

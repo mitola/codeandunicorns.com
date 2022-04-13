@@ -5,10 +5,9 @@ authors:
 - admin
 
 categories:
-  - ALL
   - How to
   - Science
-  - The Code
+  - programming
 ---
 [<img class="alignleft size-medium wp-image-1509" src="https://codeandunicorns.com/wp-content/uploads/2015/11/GoogleVisionMatjazAPI2-177x300.jpg" alt="GoogleVisionMatjazAPI2" width="177" height="300" srcset="https://codeandunicorns.com/wp-content/uploads/2015/11/GoogleVisionMatjazAPI2-177x300.jpg 177w, https://codeandunicorns.com/wp-content/uploads/2015/11/GoogleVisionMatjazAPI2.jpg 463w" sizes="(max-width: 177px) 100vw, 177px" />](https://codeandunicorns.com/wp-content/uploads/2015/11/GoogleVisionMatjazAPI2.jpg)
 

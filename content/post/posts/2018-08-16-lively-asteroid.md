@@ -5,8 +5,8 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - Poem
+  - writing
+  - poem
 ---
 ![Asteroid](posts/asteroid.jpg "")
 Rotating slowly around axis of its own miniscule gravity,  

@@ -3,6 +3,10 @@ title: 'Petri dish'
 date: 2018-09-27T13:39:15+00:00
 authors:
 - admin
+
+categories:
+  - writing
+  - poem
 ---
 ![petridishculture](posts/petridishculture.jpg "")
 

@@ -1,0 +1,32 @@
+<script type="application/javascript" src="https://gist.github.com/{{ .Get 0 }}/{{ .Get 1 }}.js"></script>
+<script type="application/javascript">
+
+  // the style of the article itself, i.e. the theme-respecting one
+  var article_style = document.getElementsByClassName("article-style");
+  var top_article = article_style[0];
+
+  // the gist is referred to by a unique constant ID, found in the JS source
+  // (unfortunately, for the time being, the only way to get this is to
+  // inspect the <gist>.js URL manually
+  var gist_start = document.getElementById({{ .Get 2 }});
+
+  /* TODO: github will create one "gist-file" class per file, in the case of
+   *       multi-file gists. What to do with these?
+   * var gist_files = document.getElementsByClass("gist-file");
+   */
+
+  // get the body of the gist
+  // FIXME: only markdown gists seem to have an article tag...
+  var gist_articles = gist_start.getElementsByTagName("article");
+  for (let gist_art of gist_articles) {
+    var gist_art_children = gist_art.children;
+    // HTMLCollections are *live*! Iterating and changing them causes
+    // elements to be lost!
+    const gac_arr = Array.from(gist_art_children);
+    for (let gist_art_child of gac_arr) {
+      top_article.appendChild(gist_art_child);
+    }
+  }
+
+  gist_start.remove();
+</script>

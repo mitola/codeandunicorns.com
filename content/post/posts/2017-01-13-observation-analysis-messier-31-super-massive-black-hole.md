@@ -5,8 +5,8 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - Prose
+  - writing
+  - prose
 ---
 ![Black Hole Quasar](posts/Black_hole_quasar.jpg "")
 From a viewpoint of objective observer at centre of galaxy identified as Messier 31 or as known &#8220;Andromeda galaxy&#8221; by the robotic observer of high elevation of AI it appears that the super massive black hole at the centre, harbours different characteristics to previously identified patterns in the database.

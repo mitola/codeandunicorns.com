@@ -12,7 +12,7 @@ authors:
 - admin
 
 categories:
-  - ALL
+  
   - Poem
 ---
 Poems are an alternative way of how to put imagination into writing. And in the following one I have imagined a world of sentient tree like beings in a nitrogenic atmosphere with their conscious great but working in a different way and speed to what we may be used to. It gives I hope also a good representation of possible challenges when encountering foreign species sooner or later into the future to be.

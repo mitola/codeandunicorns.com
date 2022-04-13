@@ -5,7 +5,7 @@ authors:
 - admin
 
 categories:
-  - ALL
+    - programming
 ---
 ![acertravelmatedisplayworking](posts/acertravelmatedisplayworking.jpg "")
 

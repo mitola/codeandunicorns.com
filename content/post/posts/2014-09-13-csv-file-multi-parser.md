@@ -6,7 +6,7 @@ authors:
 - admin
     
 categories:
-  - ALL
+  - programming
 tags:
   - csv
   - parser

@@ -5,8 +5,7 @@ author:
 - admin
 
 categories:
-  - ALL
-  - The Code
+  - programming
 ---
 ![star_wars_console_command](posts/star_wars_console_command.png "")
 **Capture video Macbook webcam with cpu accelerated**

@@ -3,6 +3,9 @@ title: Git pull with better touch tool on Touchbar
 date: 2018-09-27T13:44:43+00:00
 authors:
 - admin
+
+categories:
+    - programming
 ---
 This is a short tutorial on how to setup Terminal command with Better touch tool in one of my use cases.
 In my case I used Synchronous blocking terminal command that git pulls from the repo and at the same time remakes changes to one configuration file to prepare it for local development.

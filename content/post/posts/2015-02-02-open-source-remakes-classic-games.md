@@ -5,7 +5,7 @@ authors:
 - admin
 
 categories:
-  - ALL
+  - games
 ---
 ![Open TTD Portable](posts/openttd-portable-38.png "")
 I found that ther are quite many rewrites of classic games which are not supported anymore, do not work on modern systems and were abandoned all together. But not by enthusiasts and talented programmers and other proffesionals which brought them back to life!

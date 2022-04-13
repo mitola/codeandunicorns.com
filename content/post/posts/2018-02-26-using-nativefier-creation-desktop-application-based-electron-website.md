@@ -5,7 +5,7 @@ authors:
 - admin
 
 categories:
-  - ALL
+    - programming
 ---
 ![magnolia cms desktop](posts/magnolia-cms-desktop.png "")
 Recently I was working a bit more with [Magnolia CMS](https://www.magnolia-cms.com/). While I was working on it locally I really wanted to basically just package it as desktop application so it would be a bit easier to use it locally or even having multiple sources pointing in its own direction.

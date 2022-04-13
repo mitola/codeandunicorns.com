@@ -4,6 +4,9 @@ date: 2017-02-25T13:48:07+00:00
 author:
 - admin
 
+categories:
+  - How to
+  - programming
 ---
 ![pibakery-example-min](posts/pibakery-example-min.png "")
 

@@ -5,7 +5,7 @@ authors:
 - admin
 layout: post
 categories:
-  - ALL
+  - programming
 ---
 Sharing a smaller code snippet / mini tutorial / example since I have found it very useful in connection to HTML preview display of cam image or an uploaded image, depending on what you want really 🙂  
 So, the example is using Twitters Bootstrap, jQuery and beloved base64. I know the last one is just an encoding, but I like it nonetheless!

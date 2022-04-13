@@ -6,7 +6,7 @@ author:
 
 categories:
   - How to
-  - The Code
+  - programming
 ---
 Recently the problem I have encountered was that the master got broken, possibly due to broken commit. Therefore I was investigating what would be the best and most appropriate way of finding a solution. Git bisect is a tool that uses binary search to find a faulty commit. Without something like this, your only other option is going through each of the commits until you found the one that is broken. In case where you look at a longer time frame, let's say a week or a month, this method will help you to find it a lot faster then otherwise.
 

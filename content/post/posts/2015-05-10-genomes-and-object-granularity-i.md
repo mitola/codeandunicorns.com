@@ -4,8 +4,8 @@ date: 2015-05-10T14:37:46+00:00
 author: Joao Pereira
 
 categories:
-  - ALL
-  - Science
+  - opinion
+  - science
 ---
 ![Genomes](posts/romatizma_gen.jpg "")
 I enjoy dedicating a good share of my free time reading and learning new skills. It is a necessary trait that keeps my sanity level high on day-to-day basis and helps me abstract from boring tasks at work. But when I do want to learn a new language I prefer having a decent and meaningful project that will keep me motivated.

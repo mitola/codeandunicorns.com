@@ -10,6 +10,9 @@ image:
 
 authors:
 - admin
+
+categories:
+  - Poem
 ---
 
 I’m a house on the Oxfordshire road up the left,  

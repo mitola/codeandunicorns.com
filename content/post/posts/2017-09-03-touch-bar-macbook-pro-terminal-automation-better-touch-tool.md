@@ -5,7 +5,7 @@ author:
 - admin
 
 categories:
-  - ALL
+  - programming
 ---
 ![overview_better_touch_tool-min](posts/overview_better_touch_tool-min.png "")
 Recently I upgraded my work computer to MacBook Pro 13 &#8221; with the new touch bar. But to be totally honest I quite dislike the default customisability of the touch bar that is included in os X by default.

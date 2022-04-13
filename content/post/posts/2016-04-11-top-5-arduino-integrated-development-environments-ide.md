@@ -5,9 +5,9 @@ authors:
 - admin
 
 categories:
-  - ALL
+  -arduino
   - How to
-  - The Code
+  - programming
 tags:
   - arduino
   - electronics

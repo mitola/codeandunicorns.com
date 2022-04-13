@@ -5,8 +5,7 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - The Code
+  - programming
 tags:
   - kops
   - kubernetes

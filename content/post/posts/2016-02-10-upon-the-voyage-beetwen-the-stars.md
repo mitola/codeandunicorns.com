@@ -5,8 +5,8 @@ author:
 - admin
 
 categories:
-  - ALL
-  - Poem
+  - poem
+  - writing
 tags:
   - poem
 ---

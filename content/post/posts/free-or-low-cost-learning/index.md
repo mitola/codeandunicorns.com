@@ -10,7 +10,7 @@ image:
   placement: 2
   preview_only: false
 categories:
-  - ALL
+  
 tags:
   - education
   - listicle

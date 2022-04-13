@@ -4,7 +4,7 @@ date: 2015-06-16T15:05:18+00:00
 author: Joao Pereira
 
 categories:
-  - ALL
+  - opinion
 ---
 ![Genomes](posts/11205553_1673673259528102_6329690743620503982_n.jpg "")
 As I was finishing the [previous](genomes-and-object-granularity-i/) part of these series on computational genomics I couldn&#8217;t help myself to engage in an actual implementation of a genetic algorithm. But how can one start? Well I tell you&#8230; **by doing it**

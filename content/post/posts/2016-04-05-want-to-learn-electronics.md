@@ -5,9 +5,9 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - Electronics
-  - News
+  - electronics
+  - news
+  - arduino
 tags:
   - arduino
   - beginnner

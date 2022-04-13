@@ -4,8 +4,8 @@ date: 2015-05-23T22:48:26+00:00
 authors:
 - admin
 categories:
-  - ALL
-  - Prose
+  - writing
+  - prose
 ---
 ![Ship](posts/aaaaship.jpg "")
 Motors are humming into a silent dawn. My head resting quietly onto glass of magnificent machine, that is carrying us over terrain unknown. Eyes slowly opening, watching horizon grow into a mixture of colours. Ranging from light blue, and encompassing into 2 rings, one bigger with a darker blood red and another smaller one of yellow with a slow transformation with addition of a green shade which makes a core of the second sun.  

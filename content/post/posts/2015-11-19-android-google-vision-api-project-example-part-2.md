@@ -5,9 +5,10 @@ authors:
 - admin
 
 categories:
-  - ALL
+  - arduino
+  - google vision
   - How to
-  - The Code
+  - programming
 ---
 In this part of the code we are going in depth of overlays of previews and Google Vision API. The next part of the code will be properly commented so the read out should be easier
 

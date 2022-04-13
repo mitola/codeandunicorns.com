@@ -6,7 +6,8 @@ authors:
 layout: post
 
 categories:
-  - ALL
+  - linux
+  - distribution
 ---
 ![LINUX](posts/Powered_by_GNU_Linux_by_deviantdark.png "")
 

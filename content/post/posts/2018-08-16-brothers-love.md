@@ -5,8 +5,8 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - Poem
+  - writing
+  - poem
 ---
 ![Mars the fourth](posts/marsthefourth.jpg "")
 

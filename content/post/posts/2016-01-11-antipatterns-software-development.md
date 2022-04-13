@@ -5,10 +5,9 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - News
-  - Science
-  - The Code
+  - news
+  - science
+  - programming
 ---
 Recently I was diving deep into Antipatterns and found them terribly interesting. Here is a list of quite many different sourced possible antipatterns and their wag abound descriptions.
 

@@ -5,8 +5,8 @@ author:
 - admin
 
 categories:
-  - ALL
-  - Prose
+  - writing
+  - prose
 ---
 ![Americana_1920_Tropical_Forests](posts/Americana_1920_Tropical_Forests.jpg "")
 

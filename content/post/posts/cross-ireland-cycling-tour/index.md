@@ -11,11 +11,9 @@ image:
   placement: 1
   preview_only: false
 categories:
-  - ALL
+  
   - Travel
 ---
-
-
 I have decided to do something different, something out of the ordinary and a wee bit on the extreme side. The winter is coming, and tourists are leaving the European shores for warmer climate, like the migratory birds. Going into their warm houses, with heating of some kind, and looking dreamily through the window into rain covered trees.
 
 But why should I just look from the warm comforts? Isn't one of points of life to challenge yourself your psychological and physical self ?
@@ -42,6 +40,7 @@ Throughout the Irish & Northern Irish part of the trip I will cycle about 750-80
 ### Clothing
 
 It will be cold, windy, drizzly and rainy. It is important to be adequately prepared for such a sustained effort in this conditions.
+
 
 I have decided upon the following set for the cycling part:
 

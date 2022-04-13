@@ -5,8 +5,8 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - Poem
+  - writing
+  - poem
 ---
 ![octopusnano](posts/octopusnano.jpg "")
 Thousand years have passed since I woke from a slumber last time.  

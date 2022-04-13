@@ -5,7 +5,7 @@ author:
 - admin
 
 categories:
-  - ALL
+    - smart devices
 ---
 ![smart-home-devices](posts/smart-home-devices.png "")
 

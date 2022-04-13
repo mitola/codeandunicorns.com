@@ -10,8 +10,8 @@ authors:
 #   "livelovelaugh.jpg"
 #   focal_point: ""
 categories:
-  - ALL
-  - Entertainment
+  - jokes
+  - entertainment
 ---
 ![love laugh](posts/livelovelaugh.jpg "")
 The collected jokes are my personal favorites from IT therefore i compiled for the world to see. The OP&#8217;s are available through title of the joke.

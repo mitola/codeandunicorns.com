@@ -5,8 +5,8 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - Poem
+  - writing
+  - poem
 ---
 ![scifimeditation](posts/scifimeditation.jpg "")
 When you look at yourself,  

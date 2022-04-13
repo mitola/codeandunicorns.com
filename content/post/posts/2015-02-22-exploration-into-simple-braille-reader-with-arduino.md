@@ -5,8 +5,9 @@ authors:
 - admin
 
 categories:
-  - ALL
+  - programming
   - How to
+  - arduino
 ---
 ![Braille](posts/braille-99020_640.png "")
 [  

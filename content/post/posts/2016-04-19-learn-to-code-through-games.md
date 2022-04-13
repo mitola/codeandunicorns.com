@@ -5,11 +5,10 @@ authors:
 - admin
 
 categories:
-  - ALL
   - Entertainment
   - Games
   - How to
-  - The Code
+  - programming
 tags:
   - children
   - coding

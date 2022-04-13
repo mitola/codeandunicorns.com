@@ -5,9 +5,8 @@ authors:
 - admin
 
 categories:
-  - ALL
   - How to
-  - The Code
+  - programming
 ---
 ![lambdapython](posts/lambdapython.png "")
 Let's first cover the gist of the actual functionality that will be responsible for giving us averaged CPU utilization during a specific time frame. The code itself is a run of the mill kind of code but already coupled in a nice working example so quite easy adapted.

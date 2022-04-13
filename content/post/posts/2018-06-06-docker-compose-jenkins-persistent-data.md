@@ -5,9 +5,9 @@ authors:
 - admin
 
 categories:
-  - ALL
+  
   - How to
-  - The Code
+  - programming
 ---
 ![](posts/Screen-Shot-2018-06-06-at-3.27.25-PM.png "")
 

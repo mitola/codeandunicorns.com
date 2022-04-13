@@ -4,7 +4,7 @@ date: 2016-09-22T15:24:19+00:00
 authors:
 - admin
 categories:
-  - ALL
+  - programming
 ---
 ![route53ovo](posts/route53ovo.png "")
 As a growing company, we have decided to switch from externally managed CMS solution towards our own internally managed one. In this article, we will take you through our short journey of providing zero-downtime releases for our CMS in the world, where maintenance windows are they default options.

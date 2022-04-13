@@ -5,8 +5,8 @@ authors:
 - admin
 
 categories:
-  - ALL
-  - Electronics
+  - programming
+  - electronics
   - How to
 tags:
   - Acer
