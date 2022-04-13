@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Best Static website generators for 2022
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
@@ -6,7 +6,6 @@ authors:
 - admin
 tags: []
 categories:
-  
   - THEME
 projects: []
 date: "2022-01-15T00:00:00Z"
@@ -123,4 +122,4 @@ Nuxt.js
 Eleventy
 
 Overview of all generators: 
-https://jamstack.org/generators/
+https://jamstack.org/generators/ -->
