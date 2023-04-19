@@ -3,12 +3,12 @@ title: Cross Ireland cyling tour
 date: 2019-11-21T13:07:52+00:00
 authors:
 - admin
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
-  placement: 2
+  placement: 1
   preview_only: false
 categories:
   
