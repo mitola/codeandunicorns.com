@@ -1,5 +1,5 @@
 ---
-title: "Top 7 Raspberry Pi-like Boards That Are Cheaper and Linux-Compatible"
+title: "Top 7 Raspberry Pi-like Boards That Are Cheaper and have good Linux support"
 subtitle: A collection of different Raspberry Pi like boards in time ot logistic shortages 
 summary: A collection of different Raspberry Pi like boards in time ot logistic shortages 
 date: 2023-05-01T13:07:52+00:00
