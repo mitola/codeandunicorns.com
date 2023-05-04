@@ -6,7 +6,7 @@ date: 2023-04-19T13:07:52+00:00
 
 authors:
 - admin
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
